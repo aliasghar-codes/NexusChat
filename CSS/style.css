@@ -498,6 +498,10 @@ footer p {
         padding: 0;
     }
     footer {
-        height: 70vh;
+        height: 80vh;
+    }
+    .third a button {
+        width: 70vw;
+        height: 10vh;
     }
 }
